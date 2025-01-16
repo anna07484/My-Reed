@@ -20,6 +20,27 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
+-YouTube
+  -Easy-to-navigate UI despite complex app features
+  -Recommending users relevant videos based on algorithms 
+  -Comments feature
+-Duolingo
+  -Using gamification to make education fun
+  -Streaks feature
+  -Push-notification reminders 
+-Andante (Practice Journal App to Record Time)
+  -Simple and friendly UI
+  -Record time spent in each practice session
+  -Monthly and yearly view of time logs 
+-Notion	
+  -Easy to navigate and clean UI
+  -Across multiple platforms
+  -Customizing notes feature
+-Headspace (Meditation App)
+  -“Today” page with daily schedule
+  -Calming UI
+  -Organized “Explore” page for resources 
+
 
 ## Notes
 
