@@ -2,9 +2,9 @@
 
 Submitted by: Anna Zhang
 
-My Reed is an app that changes color of the background 
+My Reed is a mobile app that introduces my basic information with a feature to change the background colors. 
 
-Time spent: **X** hours spent in total
+Time spent: 15 hours spent in total
 
 ## Required Features
 
