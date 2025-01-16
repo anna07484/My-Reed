@@ -26,25 +26,25 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 - Recommends relevant videos using algorithms
 - Interactive comments feature
 
-### Duolingo 
+#### Duolingo 
 - Gamification to make education fun
 - Streak tracking to motivate users
 - Push notifications for learning reminders
 
-### Andante (Practice Journal App)
+#### Andante (Practice Journal App)
 - Simple and friendly UI
 - Tracks time spent in practice sessions
 - Provides monthly and yearly time logs
 
-### Notion
+#### Notion
 - Clean and easy-to-navigate UI
 - Syncs seamlessly across multiple platforms
 - Customizable notes and organization features
 
-### Headspace (Meditation App)
+#### Headspace (Meditation App)
 - "Today" page with personalized daily schedules
 - Calming and visually soothing UI
-- Organized "Explore" page for accessing resourceses
+- Organized "Explore" page for accessing resources
 
 
 ## Notes
