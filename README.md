@@ -21,12 +21,12 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 ## App Brainstorming
 
-#### YouTube
+#### YouTube (Video Watching App)
 - Easy-to-navigate UI despite complex app features
 - Recommends relevant videos using algorithms
 - Interactive comments feature
 
-#### Duolingo 
+#### Duolingo (Language Learning App)
 - Gamification to make education fun
 - Streak tracking to motivate users
 - Push notifications for learning reminders
@@ -36,7 +36,7 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 - Tracks time spent in practice sessions
 - Provides monthly and yearly time logs
 
-#### Notion
+#### Notion (Note-taking App)
 - Clean and easy-to-navigate UI
 - Syncs seamlessly across multiple platforms
 - Customizable notes and organization features
