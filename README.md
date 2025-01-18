@@ -4,7 +4,7 @@ Submitted by: Anna Zhang
 
 My Reed is a mobile app that introduces my basic information with a feature to change the background colors. 
 
-Time spent: 15 hours spent in total
+Time spent: 17 hours spent in total
 
 ## Required Features
 
