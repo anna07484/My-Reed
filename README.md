@@ -52,7 +52,7 @@ I initially named the app "My Reed" to reflect my vision of creating an educatio
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Anna Zhang]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
