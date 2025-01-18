@@ -48,7 +48,7 @@ https://www.loom.com/share/ee3e6829c75d4161aeb27c9c258d2a2b?sid=68e6c2bc-cd31-41
 ## Notes
 Initially, updating Xcode and iOS systems were challenging due to insufficient storage on my laptop. I resolved this issue by utilizing an external hard drive. Another hurdle was linking the button in my Main.storyboard file to the ViewController.swift file, despite following multiple tutorials. I eventually succeeded by experimenting with opening two screens simultaneously and dragging the connections correctly.
 
-I initially named the app 'My Reed' to reflect my vision of creating an educational tool for musicians to learn how to make their reeds. However, I later realized the original app concept was beyond the pre-work project's scope, so I wanted to rename it to something simpler. Unfortunately, the renaming process caused unexpected errors, leading me to revert to the original name. 
+I initially named the app "My Reed" to reflect my vision of creating an educational tool for musicians to learn how to make their reeds. However, I later realized the original app concept was beyond the pre-work project's scope, so I wanted to rename it to something simpler. Unfortunately, the renaming process caused unexpected errors, leading me to revert to the original name. 
 
 ## License
 
